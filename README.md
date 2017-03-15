@@ -4,7 +4,7 @@ This is my 4th Project in Udacity..
 
 ----
 
-- To find this project here is my link in github: 
+- To find this project here is my link in github: https://github.com/artaaliu/web-optimization/tree/master
 
 - You can get it by clicking on "Download zip", and then extract on your computer, or by clicking "Clone or Download", and then on "Open in Desktop".
 
